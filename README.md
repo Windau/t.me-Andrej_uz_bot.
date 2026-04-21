@@ -55,6 +55,8 @@
 
 🔗 [Документация Qwen](https://help.aliyun.com/zh/qwen)
 
+<img width="1814" height="687" alt="image" src="https://github.com/user-attachments/assets/d67dc254-e111-4a4c-ae6a-c3fac1a322c3" />
+
 ### 🔹 Suvvy.ai
 > **Роль в проекте:** Платформа для сборки, обучения и деплоя ИИ-ассистента
 
